@@ -2,7 +2,7 @@ public class LinearEquationRunner
 {
     public static void main(String [] args)
     {
-        LinearEquation linear = new LinearEquation();
+        LinearEquationLogic linear = new LinearEquationLogic();
         linear.start();
     }
 }
